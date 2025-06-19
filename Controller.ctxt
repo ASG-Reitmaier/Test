@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\r\n\ Der\ Controller\ stellt\ das\ Bindeglied\ zwischen\ Model\ und\ View\ dar.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=m
+comment1.target=Controller(Model)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Controller\r\n
+comment2.params=schwierigkeitsgrad
+comment2.target=void\ starten(int)
+comment3.params=x\ y
+comment3.target=void\ oeffneFeld(int,\ int)
+comment4.params=x\ y
+comment4.target=void\ markiereFeld(int,\ int)
+numComments=5
