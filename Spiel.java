@@ -1,9 +1,6 @@
 
 /**
- * Write a description of class Test here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+Das Spiel geht los.
  */
 public class Spiel
 {
