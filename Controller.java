@@ -2,8 +2,6 @@
 /**
  * Der Controller stellt das Bindeglied zwischen Model und View dar.
  * 
- * @author (your name) 
- * @version (a version number or a date)
  */
 public class Controller
 {
