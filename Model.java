@@ -1,6 +1,6 @@
 import java.util.Random;
 /**
- * Write a description of class Model here.
+ * Schreibe hier eine Beschreibung
  * 
  * @author (your name) 
  * @version (a version number or a date)
