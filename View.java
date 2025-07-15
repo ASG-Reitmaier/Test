@@ -15,6 +15,7 @@ import java.awt.event.MouseWheelListener;
 import javax.swing.border.Border;
 import javax.swing.*;
 
+//Anzeige
 public class View extends JFrame implements ModelObserver {
     
     private JMenuBar menuBar;

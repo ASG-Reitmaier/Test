@@ -1,6 +1,6 @@
 import java.util.Random;
 /**
- * Schreibe hier eine Beschreibung!
+ * Schreibe eine Beschreibung!
  * 
  * @author (your name) 
  * @version (a version number or a date)
